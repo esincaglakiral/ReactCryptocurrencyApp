@@ -1,5 +1,8 @@
 # CryptoCrafter Projesi
 
+![reactcryptoapp](https://github.com/esincaglakiral/ReactCryptocurrencyApp/assets/68962573/bc5fb710-76a1-4079-a70c-db7645a4743e)
+
+
 CryptoCrafter projesi, modern web geliştirme tekniklerini ve birçok farklı teknolojiyi içeren React ve Redux kullanılarak geliştirilmiş bir kripto para takip uygulamasıdır. 🎉
 
 ## Özellikler
